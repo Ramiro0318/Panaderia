@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tec\\PROGRAMACI\u00D3N\\Proyectos4S\\Panaderia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0D0CE5-7B96-4763-8EEA-D7FCE4788947}|Panaderia.csproj|d:\\tec\\programaci\u00F3n\\proyectos4s\\panaderia\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7A0D0CE5-7B96-4763-8EEA-D7FCE4788947}|Panaderia.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0D0CE5-7B96-4763-8EEA-D7FCE4788947}|Panaderia.csproj|D:\\Tec\\PROGRAMACI\u00D3N\\Proyectos4S\\Panaderia\\ventapan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0D0CE5-7B96-4763-8EEA-D7FCE4788947}|Panaderia.csproj|solutionrelative:ventapan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A0D0CE5-7B96-4763-8EEA-D7FCE4788947}|Panaderia.csproj|D:\\Tec\\PROGRAMACI\u00D3N\\Proyectos4S\\Panaderia\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A0D0CE5-7B96-4763-8EEA-D7FCE4788947}|Panaderia.csproj|solutionrelative:productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 202,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Tec\\PROGRAMACI\u00D3N\\Proyectos4S\\Panaderia\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\Tec\\PROGRAMACI\u00D3N\\Proyectos4S\\Panaderia\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-02-27T02:25:33.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VentaPan.cs",
+              "DocumentMoniker": "D:\\Tec\\PROGRAMACI\u00D3N\\Proyectos4S\\Panaderia\\VentaPan.cs",
+              "RelativeDocumentMoniker": "VentaPan.cs",
+              "ToolTip": "D:\\Tec\\PROGRAMACI\u00D3N\\Proyectos4S\\Panaderia\\VentaPan.cs",
+              "RelativeToolTip": "VentaPan.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAhwEwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T02:09:17.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "D:\\Tec\\PROGRAMACI\u00D3N\\Proyectos4S\\Panaderia\\Productos.cs",
+              "RelativeDocumentMoniker": "Productos.cs",
+              "ToolTip": "D:\\Tec\\PROGRAMACI\u00D3N\\Proyectos4S\\Panaderia\\Productos.cs",
+              "RelativeToolTip": "Productos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T01:57:54.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
