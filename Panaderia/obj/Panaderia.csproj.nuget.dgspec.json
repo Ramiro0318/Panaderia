@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tec\\PROGRAMACIÓN\\Proyectos4S\\Panaderia\\Panaderia.csproj": {}
+    "C:\\Users\\ramir\\Documents\\GitHub\\Panaderia\\Panaderia\\Panaderia.csproj": {}
   },
   "projects": {
-    "D:\\Tec\\PROGRAMACIÓN\\Proyectos4S\\Panaderia\\Panaderia.csproj": {
+    "C:\\Users\\ramir\\Documents\\GitHub\\Panaderia\\Panaderia\\Panaderia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tec\\PROGRAMACIÓN\\Proyectos4S\\Panaderia\\Panaderia.csproj",
+        "projectUniqueName": "C:\\Users\\ramir\\Documents\\GitHub\\Panaderia\\Panaderia\\Panaderia.csproj",
         "projectName": "Panaderia",
-        "projectPath": "D:\\Tec\\PROGRAMACIÓN\\Proyectos4S\\Panaderia\\Panaderia.csproj",
+        "projectPath": "C:\\Users\\ramir\\Documents\\GitHub\\Panaderia\\Panaderia\\Panaderia.csproj",
         "packagesPath": "C:\\Users\\ramir\\.nuget\\packages\\",
-        "outputPath": "D:\\Tec\\PROGRAMACIÓN\\Proyectos4S\\Panaderia\\obj\\",
+        "outputPath": "C:\\Users\\ramir\\Documents\\GitHub\\Panaderia\\Panaderia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

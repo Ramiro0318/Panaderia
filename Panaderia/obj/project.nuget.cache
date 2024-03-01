@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FSiVLxDd3vVGwlImxjrwGGvwL34idHUJJaLvhF4pfARUt5T4pGZzZ0tIpVz3uXkWKPHLHCmgbr23X6biY71Fjw==",
+  "dgSpecHash": "aydjV0tW3BOCHgPK51d3IbB7W24p9dVZcrp9q6W3BAMf55rKaJUJ8345lGSAUqb7Z8avEoLmEOZhbEsYMW9okw==",
   "success": true,
-  "projectFilePath": "D:\\Tec\\PROGRAMACIÓN\\Proyectos4S\\Panaderia\\Panaderia.csproj",
+  "projectFilePath": "C:\\Users\\ramir\\Documents\\GitHub\\Panaderia\\Panaderia\\Panaderia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ramir\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512"
   ],

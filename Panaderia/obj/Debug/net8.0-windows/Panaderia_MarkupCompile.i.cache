@@ -1,5 +1,5 @@
 ﻿Panaderia
-
+1.0.0.0
 
 winexe
 C#
@@ -12,9 +12,9 @@ TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\ramir\Documents\GitHub\Panaderia\Panaderia\App.xaml
 11407045341
 1978482856
-6-701419300
+8-1229047644
 199-1275233367
 MainWindow.xaml;
 
-False
+True
 

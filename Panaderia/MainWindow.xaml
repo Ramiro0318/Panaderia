@@ -44,9 +44,18 @@
                 
                 </DockPanel>
                 <ComboBox
-                    SelectedItem="{Binding pan}" x:Name="cmbTipoPan" Grid.Row="2" Grid.RowSpan="1" Margin="10" 
-                    ItemsSource="{Binding Panes}" DisplayMemberPath="Nombre" SelectedIndex="1" SelectionChanged="cmbTipoPan_SelectionChanged">
-                        
+                     SelectedItem="{Binding pan}" Grid.Row="2" Grid.RowSpan="1" Margin="10" FontSize="22">
+                    <x:Static Member="local:tipoPan.Quequito"></x:Static>
+                    <x:Static Member="local:tipoPan.Dona"></x:Static>
+                    <x:Static Member="local:tipoPan.Quaso"></x:Static>
+                    <x:Static Member="local:tipoPan.PanBlanco"></x:Static>
+                    <x:Static Member="local:tipoPan.GalletaChispas"></x:Static>
+                    <x:Static Member="local:tipoPan.QuequitoChispas"></x:Static>
+                    <x:Static Member="local:tipoPan.Pretzel"></x:Static>
+                    <x:Static Member="local:tipoPan.GalletaCuadrada"></x:Static>
+                    <x:Static Member="local:tipoPan.GalletaEstrella"></x:Static>
+                
+
                 </ComboBox>
 
                 <Image Grid.Row="3" Grid.RowSpan="4" Source="{Binding ElementName=cmbTipoPan, Path=SelectedItem.imagen}">
